@@ -1,52 +1,14 @@
 {
-  "levels": [
-    {
-      "id": 1,
-      "title": "找规律",
-      "description": "观察图形规律，选择正确答案",
-      "icon": "🎯",
-      "type": "learn",
-      "order": 1
-    },
-    {
-      "id": 2,
-      "title": "20以内加减法",
-      "description": "练习简单的数学计算",
-      "icon": "🔢",
-      "type": "learn",
-      "order": 2
-    },
-    {
-      "id": 6,
-      "title": "迷宫闯关",
-      "description": "帮助小车找到正确的出口",
-      "icon": "🚗",
-      "type": "game",
-      "order": 3
-    },
-    {
-      "id": 3,
-      "title": "数字比较",
-      "description": "比较数字大小",
-      "icon": "⚖️",
-      "type": "learn",
-      "order": 4
-    },
-    {
-      "id": 4,
-      "title": "学前认字",
-      "description": "认识常用汉字",
-      "icon": "📚",
-      "type": "learn",
-      "order": 5
-    },
-    {
-      "id": 5,
-      "title": "拼音基础",
-      "description": "学习拼音发音",
-      "icon": "🔤",
-      "type": "learn",
-      "order": 6
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
