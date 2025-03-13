@@ -125,6 +125,106 @@
           "explanation": "7加5等于12"
         }
       ]
-    }
+    },
+    {
+      "id": 3,
+      "data": [
+        {
+          "id": 1,
+          "question": "7 __ 5",
+          "options": [
+            ">",
+            "<",
+            "="
+          ],
+          "answer": ">",
+          "explanation": "7大于5"
+        },
+        {
+          "id": 2,
+          "question": "3 __ 8",
+          "options": [
+            ">",
+            "<",
+            "="
+          ],
+          "answer": "<",
+          "explanation": "3小于8"
+        },
+        {
+          "id": 3,
+          "question": "6 __ 6",
+          "options": [
+            ">",
+            "<",
+            "="
+          ],
+          "answer": "=",
+          "explanation": "6等于6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "data": [
+        {
+          "id": 1,
+          "question": "日",
+          "options": [
+            "rì",
+            "yuè",
+            "xīng"
+          ],
+          "answer": "rì",
+          "explanation": "日 (rì) - 太阳的\"日\""
+        },
+        {
+          "id": 2,
+          "question": "月",
+          "options": [
+            "rì",
+            "yuè",
+            "xīng"
+          ],
+          "answer": "yuè",
+          "explanation": "月 (yuè) - 月亮的\"月\""
+        },
+        {
+          "id": 3,
+          "question": "星",
+          "options": [
+            "rì",
+            "yuè",
+            "xīng"
+          ],
+          "answer": "xīng",
+          "explanation": "星 (xīng) - 星星的\"星\""
+        }
+      ]
+    },
+    {
+    "id": 5,
+    "questions": [
+      {
+        "id": 1,
+        "question": "māma",
+        "options": ["妈妈", "爸爸", "姐姐"],
+        "answer": "妈妈",
+        "explanation": "māma - 妈妈"
+      },
+      {
+        "id": 2,
+        "question": "bàba",
+        "options": ["妈妈", "爸爸", "姐姐"],
+        "answer": "爸爸",
+        "explanation": "bàba - 爸爸"
+      },
+      {
+        "id": 3,
+        "question": "jiějie",
+        "options": ["妈妈", "爸爸", "姐姐"],
+        "answer": "姐姐",
+        "explanation": "jiějie - 姐姐"
+      }
   ]
-}
+}]}
